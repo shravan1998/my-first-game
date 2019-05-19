@@ -5,8 +5,8 @@ using System;
 
 public class move : MonoBehaviour
 {
-    public float speed=0.01;
-    public float jumpspeed=1;
+    public float speed=0.01F;
+    public float jumpspeed=1F;
     // Start is called before the first frame update
     void Start()
     {
